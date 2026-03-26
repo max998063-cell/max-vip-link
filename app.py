@@ -22,7 +22,7 @@ ACCESS_PASSWORD = "BK8VIP2026"
 # Short.io API Configuration (Hardcoded as per requirements)
 SHORTIO_API_KEY = "sk_F72LsjNnFX8DvHcD"
 SHORTIO_DOMAIN = "vipcontact-us.short.gy"
-SHORTIO_API_URL = "[api.short.io](https://api.short.io/links)"
+SHORTIO_API_URL = "https://api.short.io/links"
 
 # Default Manager Settings
 DEFAULT_MANAGER_ID = "max_bkio"
